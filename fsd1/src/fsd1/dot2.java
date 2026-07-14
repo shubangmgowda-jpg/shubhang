@@ -1,0 +1,9 @@
+package fsd1;
+
+public class dot2 {
+
+	public static void main(String[] args) {
+		System.out.println("welcome to github");
+	}
+
+}
